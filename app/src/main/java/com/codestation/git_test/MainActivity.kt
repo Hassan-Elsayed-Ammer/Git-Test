@@ -8,10 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        println(" Hello World From Git ")
-
-        hello world three
-
-
+        println(" Hello World")
+        println(" Hello Android")
+        println(" Hello Kotlin")
     }
 }
